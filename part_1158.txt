@@ -1,0 +1,311 @@
+field hockey
+ice hockey
+lacrosse
+ping pong
+badminton
+boxing glove
+martial arts uniform
+goal net
+flag in hole
+ice skate
+fishing pole
+diving mask
+running shirt
+skis
+sled
+curling stone
+bullseye
+yo-yo
+kite
+pool 8 ball
+crystal ball
+nazar amulet
+video game
+joystick
+slot machine
+game die
+puzzle piece
+teddy bear
+spade suit
+heart suit
+diamond suit
+club suit
+chess pawn
+joker
+mahjong red dragon
+flower playing cards
+performing arts
+framed picture
+artist palette
+thread
+yarn
+glasses
+sunglasses
+goggles
+lab coat
+safety vest
+necktie
+t-shirt
+jeans
+scarf
+gloves
+coat
+socks
+dress
+kimono
+sari
+one-piece swimsuit
+briefs
+shorts
+bikini
+woman’s clothes
+purse
+handbag
+clutch bag
+shopping bags
+backpack
+man’s shoe
+running shoe
+hiking boot
+flat shoe
+high-heeled shoe
+woman’s sandal
+ballet shoes
+woman’s boot
+crown
+woman’s hat
+top hat
+graduation cap
+billed cap
+rescue worker’s helmet
+prayer beads
+lipstick
+ring
+gem stone
+muted speaker
+speaker low volume
+speaker medium volume
+speaker high volume
+loudspeaker
+megaphone
+postal horn
+bell
+bell with slash
+musical score
+musical note
+musical notes
+studio microphone
+level slider
+control knobs
+microphone
+headphone
+radio
+saxophone
+guitar
+musical keyboard
+trumpet
+violin
+banjo
+drum
+mobile phone
+mobile phone with arrow
+telephone
+telephone receiver
+pager
+fax machine
+battery
+electric plug
+laptop
+desktop computer
+printer
+keyboard
+computer mouse
+trackball
+computer disk
+floppy disk
+optical disk
+dvd
+abacus
+movie camera
+film frames
+film projector
+clapper board
+television
+camera
+camera with flash
+video camera
+videocassette
+magnifying glass tilted left
+magnifying glass tilted right
+candle
+light bulb
+flashlight
+red paper lantern
+diya lamp
+notebook with decorative cover
+closed book
+open book
+green book
+blue book
+orange book
+books
+notebook
+ledger
+page with curl
+scroll
+page facing up
+newspaper
+rolled-up newspaper
+bookmark tabs
+bookmark
+label
+money bag
+yen banknote
+dollar banknote
+euro banknote
+pound banknote
+money with wings
+credit card
+receipt
+chart increasing with yen
+envelope
+e-mail
+incoming envelope
+envelope with arrow
+outbox tray
+inbox tray
+package
+closed mailbox with raised flag
+closed mailbox with lowered flag
+open mailbox with raised flag
+open mailbox with lowered flag
+postbox
+ballot box with ballot
+pencil
+black nib
+fountain pen
+pen
+paintbrush
+crayon
+memo
+briefcase
+file folder
+open file folder
+card index dividers
+calendar
+tear-off calendar
+spiral notepad
+spiral calendar
+card index
+chart increasing
+chart decreasing
+bar chart
+clipboard
+pushpin
+round pushpin
+paperclip
+linked paperclips
+straight ruler
+triangular ruler
+scissors
+card file box
+file cabinet
+wastebasket
+locked
+unlocked
+locked with pen
+locked with key
+key
+old key
+hammer
+axe
+pick
+hammer and pick
+hammer and wrench
+dagger
+crossed swords
+water pistol
+bow and arrow
+shield
+wrench
+nut and bolt
+gear
+clamp
+balance scale
+white cane
+link
+chains
+toolbox
+magnet
+alembic
+test tube
+petri dish
+dna
+microscope
+telescope
+satellite antenna
+syringe
+drop of blood
+pill
+adhesive bandage
+stethoscope
+door
+bed
+couch and lamp
+chair
+toilet
+shower
+bathtub
+razor
+lotion bottle
+safety pin
+broom
+basket
+roll of paper
+soap
+sponge
+fire extinguisher
+shopping cart
+cigarette
+coffin
+funeral urn
+moai
+ATM sign
+litter in bin sign
+potable water
+wheelchair symbol
+men’s room
+women’s room
+restroom
+baby symbol
+water closet
+passport control
+customs
+baggage claim
+left luggage
+warning
+children crossing
+no entry
+prohibited
+no bicycles
+no smoking
+no littering
+non-potable water
+no pedestrians
+no mobile phones
+no one under eighteen
+radioactive
+biohazard
+up arrow
+up-right arrow
+right arrow
+down-right arrow
+down arrow
+down-left arrow
+left arrow
+up-left arrow
+up-down arrow
+left-right arrow
+right arrow curving left
+left arrow curving right
+right arrow curving up
